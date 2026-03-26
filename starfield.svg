@@ -1424,7 +1424,6 @@ circle { fill: #ffffff; }
   animation: fly 4.0s 5.7s linear infinite;
 }
 </style>
-<rect class="bg" width="800" height="400"/>
 <circle class="s0" cx="0" cy="0" r="0.8" opacity="0"/>
 <circle class="s1" cx="0" cy="0" r="0.8" opacity="0"/>
 <circle class="s2" cx="0" cy="0" r="1.2" opacity="0"/>
